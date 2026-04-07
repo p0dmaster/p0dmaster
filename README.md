@@ -1,5 +1,3 @@
 - 👋 Hi, I’m @p0dmaster
 - 👀 I’m interested in gaming, languages, coding, traveling and cooking.
 - 🌱 I’m using C#, Azure, SQL, JS, Angular & React
-- 💞️ I’m looking to collaborate on projects.
-- 📫 How to reach me TBC..
